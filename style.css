@@ -23,7 +23,7 @@ body {
 
 /* HERO */
 .hero {
-  background: linear-gradient(black, #300);
+  background: linear-gradient(rgb(188, 122, 122), rgb(146, 77, 77));
 }
 
 .hero h1 {
@@ -38,7 +38,7 @@ body {
 /* MESSAGE & SORRY */
 .message,
 .sorry {
-  background: #120a0a;
+  background: #7b4545;
 }
 
 .section-img {
@@ -70,7 +70,7 @@ body {
   height: 260px;
   border-radius: 14px;
   overflow: hidden;
-  box-shadow: 0 0 25px rgba(255,0,0,0.35);
+  box-shadow: 0 0 25px rgba(234, 120, 120, 0.86);
 }
 
 .img-frame img {
@@ -81,7 +81,7 @@ body {
 
 /* FINAL */
 .final {
-  background: radial-gradient(#400, black);
+  background: radial-gradient(rgb(162, 90, 90), rgb(144, 77, 77));
 }
 
 .final-img {
